@@ -13,5 +13,5 @@
         "img":"https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGh1bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "name":"Hiris Harmand",
         "description":" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam architecto atque sapiente quidem enim dignissimos voluptatibus accusamus aperiam obcaecati, reiciendis incidunt iusto? Reiciendis illum magni soluta eos delectus nulla illo!"
-    },
+    }
 ]
