@@ -18,22 +18,5 @@
         "img":"https://i.ibb.co/gZSLPJG/shope.png",
         "description":"This is a e-commerce website . On the Home page have some  product and live calculation using js  "
     }
-    // {
-    //     "id":"4",
-    //     "name":"Car Mechanic website",
-    //     "img":"https://i.ibb.co/mCqPY8Z/mechanic.png",
-    //     "description":""
-    // },
-    // {
-    //     "id":"5",
-    //     "name":"Car-Booking Full-stack project",
-    //     "img":"https://i.ibb.co/6ZZJvBZ/car.png",
-    //     "description":""
-    // },
-    // {
-    //     "id":"6",
-    //     "name":"Donte for climate-changing",
-    //     "img":"https://i.ibb.co/1dnGSt8/donar.png",
-    //     "description":""
-    // }
+    
 ]
